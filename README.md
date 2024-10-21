@@ -3,6 +3,11 @@ Web crawler Service built using Go Lang.
 
 Why Go-lang and not python, because go lang gives us the prower of go routines, which are very lightWieght and fast compared to python threads.
 
+Loom Links:
+- https://www.loom.com/share/1259eda715c64de9acbaab49d8aa6ca8?sid=11353008-963a-4e66-a143-8811bf8b5e38
+- https://www.loom.com/share/41142f366aa247f7b7aaf012559fb1da?sid=1795a127-bda0-4126-969e-46329f5284ee
+    
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
   <ol>
